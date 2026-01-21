@@ -4158,11 +4158,11 @@ Certifique-se de ter madeira suficiente!"
 TUTORIAL_BUILD_WORKSHOP "Seus lacaios precisarão de equipamentos, como armas, armaduras e consumíveis, para serem mais letais em combate.
 
 Construa pelo menos 2 bancadas de oficina em sua masmorra. É melhor cavar uma sala dedicada para elas. Você também precisará de uma área de armazenamento para equipamentos. Coloque-a em algum lugar perto da sua oficina."
-TUTORIAL_SCHEDULE_WORKSHOP_ITEMS "Armas são a peça mais importante do equipamento, pois desarmados, seus lacaios têm pouca chance contra um inimigo. Abra o menu da oficina clicando em qualquer uma de suas bancadas de oficina e agende a produção de um porrete."
+TUTORIAL_SCHEDULE_WORKSHOP_ITEMS "Armas são a peça mais importante do equipamento, pois desarmados, seus lacaios têm pouca chance contra um inimigo. Abra o menu da oficina clicando em qualquer uma de suas bancadas de oficina e agende a produção de um clava."
 TUTORIAL_ORDER_CRAFTING "Para que seu item seja produzido, ordene que seu goblin pegue o ofício. Clique e arraste-o para uma bancada de oficina. Pausar o jogo tornará isso um pouco mais fácil. Além disso, certifique-se de ter madeira suficiente!
 
 Você pode verificar o progresso da produção quando clicar na oficina."
-TUTORIAL_EQUIP_WEAPON "Seus lacaios pegarão automaticamente armas e outros equipamentos do armazenamento, mas você também pode controlar isso manualmente. Clique no seu goblin e no slot de arma dele para atribuir-lhe o porrete que ele acabou de produzir.
+TUTORIAL_EQUIP_WEAPON "Seus lacaios pegarão automaticamente armas e outros equipamentos do armazenamento, mas você também pode controlar isso manualmente. Clique no seu goblin e no slot de arma dele para atribuir-lhe o clava que ele acabou de produzir.
 
 Dessa forma, você ordenará que ele vá buscá-lo."
 TUTORIAL_ACCEPT_MORE_IMMIGRANTS "Você está pronto para aumentar sua força militar. Mais três imigrantes guerreiros goblins devem servir.
