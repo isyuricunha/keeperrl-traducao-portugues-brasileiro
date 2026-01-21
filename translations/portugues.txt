@@ -4149,76 +4149,76 @@ TUTORIAL_DIG_2_ROOMS "Cave mais algumas salas. Se a biblioteca estiver bloqueand
 
 Altere a velocidade do jogo {1} se estiver demorando muito."
 TUTORIAL_DIG_2_ROOMS_CONTROLLER "usando as teclas L4 e R4"
-TUTORIAL_DIG_2_ROOMS_KEYBOARD "using the keys 1-4 or by clicking in the lower left corner"
-TUTORIAL_ACCEPT_IMMIGRANT "Your dungeon has attracted a goblin warrior. Before your new minion joins you, you must fulfill a few requirements. Hover the mouse over the immigrant icon to see them. Once you are ready, accept the immigrant with a click. Click on the '?' icon immediately to the left to learn more about immigration."
-TUTORIAL_TORCHES "We need to make sure that your minions have good working conditions when studying and training. Place some torches in your rooms to light them up. Hover the mouse over the book shelves and training dummies and look in the lower right corner to check if they have enough light."
-TUTORIAL_FLOORS "Minions are also more efficient if there is a nice floor where they are working. For now you can only afford wooden floors, but they should do.
+TUTORIAL_DIG_2_ROOMS_KEYBOARD "usando as teclas 1-4 ou clicando no canto inferior esquerdo"
+TUTORIAL_ACCEPT_IMMIGRANT "Sua masmorra atraiu um guerreiro goblin. Antes que seu novo lacaio se junte a você, você deve cumprir alguns requisitos. Passe o mouse sobre o ícone do imigrante para vê-los. Quando estiver pronto, aceite o imigrante com um clique. Clique no ícone '?' imediatamente à esquerda para saber mais sobre imigração."
+TUTORIAL_TORCHES "Precisamos garantir que seus lacaios tenham boas condições de trabalho ao estudar e treinar. Coloque algumas tochas em seus cômodos para iluminá-los. Passe o mouse sobre as estantes de livros e os bonecos de treinamento e olhe no canto inferior direito para verificar se há luz suficiente."
+TUTORIAL_FLOORS "Os lacaios também são mais eficientes se houver um piso agradável onde estão trabalhando. Por enquanto, você só pode pagar por pisos de madeira, mas eles devem servir.
 
-Make sure you have enough wood!"
-TUTORIAL_BUILD_WORKSHOP "Your minions will need equipment, such as weapons, armor, and consumables, to be more deadly in combat.
+Certifique-se de ter madeira suficiente!"
+TUTORIAL_BUILD_WORKSHOP "Seus lacaios precisarão de equipamentos, como armas, armaduras e consumíveis, para serem mais mortais em combate.
 
-Build at least 2 workshop stands in your dungeon. It's best to dig out a dedicated room for them. You will also need a storage area for equipment. Place it somewhere near your workshop."
-TUTORIAL_SCHEDULE_WORKSHOP_ITEMS "Weapons are the most important piece of equipment, because unarmed, your minions have little chance against an enemy. Open the workshop menu by clicking on any of your workshop stands and schedule the production of a club."
-TUTORIAL_ORDER_CRAFTING "To have your item produced, order your goblin to pick up crafting. Click and drag him onto a workshop stand. Pausing the game will make it a bit easier. Also, make sure you have enough wood!
+Construa pelo menos 2 bancadas de oficina em sua masmorra. É melhor cavar um cômodo dedicado para elas. Você também precisará de uma área de armazenamento para equipamentos. Coloque-a perto de sua oficina."
+TUTORIAL_SCHEDULE_WORKSHOP_ITEMS "As armas são a peça mais importante do equipamento, porque desarmados, seus lacaios têm pouca chance contra um inimigo. Abra o menu da oficina clicando em qualquer uma de suas bancadas de oficina e agende a produção de um porrete."
+TUTORIAL_ORDER_CRAFTING "Para ter seu item produzido, ordene que seu goblin pegue a produção. Clique e arraste-o até uma bancada de oficina. Pausar o jogo tornará isso um pouco mais fácil. Além disso, certifique-se de ter madeira suficiente!
 
-You can check the progress of production when you click on the workshop."
-TUTORIAL_EQUIP_WEAPON "Your minions will automatically pick up weapons and other equipment from the storage, but you can also control it manually. Click on your goblin, and on his weapon slot to assign him the club that he has just produced.
+Você pode verificar o progresso da produção quando clicar na oficina."
+TUTORIAL_EQUIP_WEAPON "Seus lacaios pegarão automaticamente armas e outros equipamentos do armazenamento, mas você também pode controlar isso manualmente. Clique no seu goblin e no slot de arma para atribuir-lhe o porrete que ele acabou de produzir.
 
-This way you will order him to go and pick it up."
-TUTORIAL_ACCEPT_MORE_IMMIGRANTS "You are ready to grow your military force. Three more goblin warrior immigrants should do.
+Dessa forma, você ordenará que ele vá pegá-lo."
+TUTORIAL_ACCEPT_MORE_IMMIGRANTS "Você está pronto para aumentar sua força militar. Três imigrantes guerreiros goblins devem ser suficientes.
 
-You can also invite goblin artificers, which don't fight, but are excellent craftsmen."
-TUTORIAL_EQUIP_ALL_FIGHTERS "Craft clubs for all of your warriors, and have them equipped. They will be needed soon."
-TUTORIAL_CREATE_TEAM "Your tiny army is ready! Assemble a team by dragging your warriors onto the [new team] button. You can drag them straight from the map or from the minion menu.
+Você também pode convidar artesãos goblins, que não lutam, mas são excelentes artesãos."
+TUTORIAL_EQUIP_ALL_FIGHTERS "Fabrique porretes para todos os seus guerreiros e equipem-os. Eles serão necessários em breve."
+TUTORIAL_CREATE_TEAM "Seu pequeno exército está pronto! Monte uma equipe arrastando seus guerreiros para o botão [nova equipe]. Você pode arrastá-los diretamente do mapa ou do menu de lacaios.
 
-Create a team of 4 goblin warriors."
-TUTORIAL_CONTROL_TEAM "Time to take control over your team. Select the team, and one of the team members as the leader, and click [Control]."
-TUTORIAL_CONTROL_MODE_MOVEMENT "You are now in control of a minion, and the game has become turn-based. Try moving around using {1} or by clicking somewhere on the map. You can scroll the map {2}.
+Crie uma equipe de 4 guerreiros goblins."
+TUTORIAL_CONTROL_TEAM "Hora de assumir o controle de sua equipe. Selecione a equipe e um dos membros como líder e clique em [Controlar]."
+TUTORIAL_CONTROL_MODE_MOVEMENT "Agora você está no controle de um lacaio e o jogo se tornou por turnos. Tente se mover usando {1} ou clicando em algum lugar do mapa. Você pode rolar o mapa {2}.
 
-Notice the rest of your team following you."
-TUTORIAL_CONTROL_MODE_MOVEMENT_CONTROLLER "the left joystick and the [A] button"
-TUTORIAL_CONTROL_MODE_MOVEMENT_KEYBOARD "the arrow keys"
-TUTORIAL_CONTROL_MODE_MOVEMENT_CONTROLLER2 "using the right joystick."
-TUTORIAL_CONTROL_MODE_MOVEMENT_KEYBOARD2 "by dragging it with the right mouse button."
-TUTORIAL_FULL_CONTROL "You can take control over all team members in a tactical situation. To do this {1}. Clicking again will go back to controlling only the team leader."
+Observe o resto de sua equipe seguindo você."
+TUTORIAL_CONTROL_MODE_MOVEMENT_CONTROLLER "o joystick esquerdo e o botão [A]"
+TUTORIAL_CONTROL_MODE_MOVEMENT_KEYBOARD "as teclas de seta"
+TUTORIAL_CONTROL_MODE_MOVEMENT_CONTROLLER2 "usando o joystick direito."
+TUTORIAL_CONTROL_MODE_MOVEMENT_KEYBOARD2 "arrastando com o botão direito do mouse."
+TUTORIAL_FULL_CONTROL "Você pode assumir o controle de todos os membros da equipe em uma situação tática. Para fazer isso {1}. Clicar novamente voltará a controlar apenas o líder da equipe."
 TUTORIAL_FULL_CONTROL_CONTROLLER "select \"Toggle control mode\" using the left trackpad"
-TUTORIAL_FULL_CONTROL_KEYBOARD "click on the [Control mode] button in the upper left corner or press [G]"
-TUTORIAL_DISCOVER_VILLAGE "It's time to discover the whereabouts of the nearby human village. {1}. The approximate location of the village is marked by a '?'. Take your team there."
-TUTORIAL_DISCOVER_VILLAGE_CONTROLLER "Press the right joystick to open the minimap"
-TUTORIAL_DISCOVER_VILLAGE_KEYBOARD "Click on the minimap in the upper right corner"
-TUTORIAL_KILL_VILLAGE "Your team has arrived at the village. The only right thing to do in this situation is to find and exterminate all inhabitants!
+TUTORIAL_FULL_CONTROL_KEYBOARD "clique no botão [Modo de controle] no canto superior esquerdo ou pressione [G]"
+TUTORIAL_DISCOVER_VILLAGE "É hora de descobrir o paradeiro da vila humana próxima. {1}. A localização aproximada da vila está marcada por um '?'. Leve sua equipe até lá."
+TUTORIAL_DISCOVER_VILLAGE_CONTROLLER "Pressione o joystick direito para abrir o minimapa"
+TUTORIAL_DISCOVER_VILLAGE_KEYBOARD "Clique no minimapa no canto superior direito"
+TUTORIAL_KILL_VILLAGE "Sua equipe chegou à vila. A única coisa certa a fazer nesta situação é encontrar e exterminar todos os habitantes!
 
-Remember to break into every house by destroying the door."
+Lembre-se de arrombar todas as casas destruindo as portas."
 TUTORIAL_LOOT_VILLAGE "There is a nice pile of treasure in one of the houses. Pick it all up by entering the tiles containing the loot, and use the \"Located here:\" menu in the upper left corner."
-TUTORIAL_LEAVE_CONTROL "To relinquish control of your team, {1}."
-TUTORIAL_LEAVE_CONTROL_CONTROLLER "press [Y]"
-TUTORIAL_LEAVE_CONTROL_KEYBOARD "click the [Exit control mode] button in the upper left corner"
-TUTORIAL_SUMMARY1 "You are back in the real-time mode. Your minions will now return to base and resume their normal routine. Once they are back, they will drop all the loot for the imps to take care of."
-TUTORIAL_RESEARCH "You have increased your malevolence level. This is the main meter of your progress in the game and allows you to research new technologies.
+TUTORIAL_LEAVE_CONTROL "Para renunciar ao controle de sua equipe, {1}."
+TUTORIAL_LEAVE_CONTROL_CONTROLLER "pressione [Y]"
+TUTORIAL_LEAVE_CONTROL_KEYBOARD "clique no botão [Sair do modo de controle] no canto superior esquerdo"
+TUTORIAL_SUMMARY1 "Você voltou ao modo em tempo real. Seus lacaios agora voltarão à base e retomarão sua rotina normal. Assim que voltarem, eles deixarão todo o butim para os impetres cuidarem."
+TUTORIAL_RESEARCH "Você aumentou seu nível de malevolência. Este é o principal medidor de seu progresso no jogo e permite que você pesquise novas tecnologias.
 
-{1} and research something."
-TUTORIAL_RESEARCH_CONTROLLER "Open the technology tab using the left trackpad"
-TUTORIAL_RESEARCH_KEYBOARD "Click on the technology tab"
-TUTORIAL_HELP_TAB "KeeperRL features how-to pages for some more advanced features. {1} to see them. They're likely to be useful in your future playthroughs."
-TUTORIAL_HELP_TAB_CONTROLLER "Open the help tab using the left trackpad"
-TUTORIAL_HELP_TAB_KEYBOARD "Click on the help tab icon"
-TUTORIAL_MINIMAP_BUTTONS "As the last objective, familiarize yourself with the two buttons under the minimap in the top-right corner. The first one opens the world map window, which you can use to travel to other sites when in control mode.
+{1} e pesquise algo."
+TUTORIAL_RESEARCH_CONTROLLER "Abra a aba de tecnologias usando o trackpad esquerdo"
+TUTORIAL_RESEARCH_KEYBOARD "Clique na aba de tecnologias"
+TUTORIAL_HELP_TAB "KeeperRL apresenta páginas de como fazer para alguns recursos mais avançados. {1} para vê-las. Elas provavelmente serão úteis em suas futuras jogadas."
+TUTORIAL_HELP_TAB_CONTROLLER "Abra a aba de ajuda usando o trackpad esquerdo"
+TUTORIAL_HELP_TAB_KEYBOARD "Clique no ícone da aba de ajuda"
+TUTORIAL_MINIMAP_BUTTONS "Como último objetivo, familiarize-se com os dois botões abaixo do minimapa no canto superior direito. O primeiro abre a janela do mapa do mundo, que você pode usar para viajar para outros locais quando estiver no modo de controle.
 
-The second one centers the map on your Keeper."
-TUTORIAL_SUMMARY2 "Thank you for completing the tutorial! We hope that we have made it a bit easier for you to get into KeeperRL. We would love to hear your comments, so please drop by on the forums on Steam or at keeperrl.com some time!"
-TUTORIAL_FINISHED "You should go and start a new game now, as this one exists only for the purpose of the tutorial.
+O segundo centraliza o mapa no seu Keeper."
+TUTORIAL_SUMMARY2 "Obrigado por completar o tutorial! Esperamos que tenhamos facilitado um pouco para você entrar em KeeperRL. Adoraríamos ouvir seus comentários, então passe no fórum no Steam ou em keeperrl.com algum dia!"
+TUTORIAL_FINISHED "Você deveria começar um novo jogo agora, pois este existe apenas para fins de tutorial.
 
-Press {1} and abandon this game."
-TUTORIAL_FINISHED_CONTROLLER "the menu button"
+Pressione {1} e abandone este jogo."
+TUTORIAL_FINISHED_CONTROLLER "o botão de menu"
 TUTORIAL_FINISHED_KEYBOARD "Escape"
-IMMIGRATION_HELP "Welcome to the immigration system! The icons immediately to the left represent creatures that would like to join your dungeon. {1} accepts, {2} rejects a candidate. Some creatures have requirements that you need to fulfill before they can join. Above this text you can examine all possible immigrants, along with their full requirements. You can also click on the icons to set automatic acception or rejection."
-IMMIGRATION_HELP_CONTROLLER1 "right trigger"
-IMMIGRATION_HELP_CONTROLLER2 "left trigger"
-IMMIGRATION_HELP_MOUSE1 "left click"
-IMMIGRATION_HELP_MOUSE2 "right click"
-GAME_INTRO "Welcome to KeeperRL v1.3, released on Octoboer 26th, 2025.
+IMMIGRATION_HELP "Bem-vindo ao sistema de imigração! Os ícones imediatamente à esquerda representam criaturas que gostariam de se juntar à sua masmorra. {1} aceita, {2} rejeita um candidato. Algumas criaturas têm requisitos que você precisa cumprir antes que elas possam se juntar. Acima deste texto, você pode examinar todos os imigrantes possíveis, junto com seus requisitos completos. Você também pode clicar nos ícones para definir aceitação ou rejeição automática."
+IMMIGRATION_HELP_CONTROLLER1 "gatilho direito"
+IMMIGRATION_HELP_CONTROLLER2 "gatilho esquerdo"
+IMMIGRATION_HELP_MOUSE1 "clique esquerdo"
+IMMIGRATION_HELP_MOUSE2 "clique direito"
+GAME_INTRO "Bem-vindo ao KeeperRL v1.3, lançado em 26 de outubro de 2025.
 
-This patch adds a playable Witch character, specializing in casting curses, snatching children, and transforming into hideous forms.
+Este patch adiciona um personagem Bruxa jogável, especializada em lançar maldições, roubar crianças e se transformar em formas horríveis.
 
-If this is your first time playing KeeperRL, remember to start with the tutorial!
+Se esta é a sua primeira vez jogando KeeperRL, lembre-se de começar com o tutorial!
 "
