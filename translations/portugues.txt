@@ -4109,12 +4109,12 @@ CAMPAIGN_HELP_TEXT "Bem-vindo ao modo campanha! O mundo, que você vê abaixo, �
 
 
 As tribos destacadas estão na sua zona de influência, o que significa que você pode interagir com elas no momento (negociar, recrutar, atacar ou ser atacado). Conforme você conquista mais inimigos, sua zona de influência aumentará."
-TUTORIAL_WELCOME "Welcome to the KeeperRL tutorial!
+TUTORIAL_WELCOME "Bem-vindo ao tutorial do KeeperRL!
 
-Together we will work to build a small dungeon, and assemble a military force. Nearby us lies
-a small village inhabited mostly by innocents, which we shall conquer.
+Juntos, vamos construir um pequeno calabouço e montar uma força militar. Perto de nós há
+uma pequena vila habitada principalmente por inocentes, que conquistaremos.
 
-This should get you up to speed with the game!"
+Isso vai te deixar por dentro do jogo!"
 TUTORIAL_INTRO "Vamos dar uma olhada em algumas coisas que você vê no mapa. O pequeno mago usando um manto vermelho é você, o Guardião.
 
 Lembre-se de que o KeeperRL possui morte permanente, o que significa que você não pode recarregar o jogo após uma falha. Se o seu Guardião morrer, o jogo acaba, então tome cuidado!"
