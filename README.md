@@ -2,6 +2,8 @@
 
 **Se essa tradução te ajudou, apoie via Pix:** `pix@yuricunha.com`
 
+> **Participe da comunidade no Discord:** <https://discord.gg/uFEwSMwUYb>
+
 Tradução do jogo **KeeperRL** para **Português Brasileiro (pt-BR)**.
 
 - **Status:** completa e revisada
